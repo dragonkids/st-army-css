@@ -1,9 +1,9 @@
 {
-    "room":                     "NC 331",
-    "author":                   "donvoo & greySynapse",
-    "css":                      "https://raw.githubusercontent.com/dragonkids/room1.json/master/onona.css",
+    "room":                     "CCS-ROOM-TEST",
+    "author":                   "-DONT_STOP-",
+    "css":                      "https://rawgit.com/donvoo/gsD.CS/master/gsD.min.css",
     "rules": {
-        "allowAutorespond":     true,
+        "allowAutorespond":     false,
         "allowAutowoot":        true,
         "allowAutojoin":        true,
         "allowAutograb":        true,
