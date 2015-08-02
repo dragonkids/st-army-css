@@ -1,7 +1,7 @@
 {
     "room":                     "CCS-ROOM-TEST",
     "author":                   "-DONT_STOP-",
-    "css":                      "https://rawgit.com/donvoo/gsD.CS/master/gsD.min.css",
+    "css":                      "https://raw.githubusercontent.com/dragonkids/st-army-css/master/st-army-ccs.css",
     "rules": {
         "allowAutorespond":     false,
         "allowAutowoot":        true,
